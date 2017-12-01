@@ -12,4 +12,5 @@ Third assignment is about using math and using the mouse to move objects and oth
 https://github.com/CallanNC31/MAGD-150-Assignments/blob/gh-pages/f17_magd150_lab03_Callan/f17_magd150_lab03_Callan.pde
 Link to the third assignment is right here^
 
-Fourth assignment is about...
+Fourth assignment is about using mouse pressed, key pressed, and loops.
+
