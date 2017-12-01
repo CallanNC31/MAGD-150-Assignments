@@ -13,4 +13,8 @@ https://github.com/CallanNC31/MAGD-150-Assignments/blob/gh-pages/f17_magd150_lab
 Link to the third assignment is right here^
 
 Fourth assignment is about using mouse pressed, key pressed, and loops.
+https://github.com/CallanNC31/MAGD-150-Assignments/blob/gh-pages/s17magd150lab04_Callan/s17magd150lab04_Callan.pde
+Link to the fourth assignment is right here^
+
+Fifth assignment is the latest one we did in class, doing 3D and making the objects move.
 
